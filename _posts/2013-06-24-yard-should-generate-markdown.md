@@ -9,7 +9,7 @@ tags: [chef, ruby, yard, yard-chef ]
 I love documentation.  But I hate writing it.  I sense I'm not alone in this, based on the many excellent doc-generation projects
 that have been built up over the years.  Perldoc blew my mind the first time I saw it, but that was nothing compared to what I
 found when I got to ILM and saw how thoroughly they had embraced pydoc in their extensive internal Python codebase.  You could
-basically "pydoc <any script or module>" and get a reasonable amount of documentation.  The fact that you can also generate an
+basically "pydoc (any script or module)" and get a reasonable amount of documentation.  The fact that you can also generate an
 entire searchable/navigable documentation site in a browser was also really cool.  When I started coding in Ruby, I wasn't
 surprised to see that similar tools existed.
 
