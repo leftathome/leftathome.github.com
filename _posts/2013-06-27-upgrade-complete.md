@@ -3,7 +3,7 @@ layout: post
 title: "Upgrade Complete"
 description: "Well, that didn't take long."
 category: Improvements
-tags: [yard chef yard-chef documentation best-practices ]
+tags: [yard, chef, yard-chef, documentation, best-practices ]
 ---
 
 Okay, today is the day that I somehow got cookbook attributes into yard-chef.
